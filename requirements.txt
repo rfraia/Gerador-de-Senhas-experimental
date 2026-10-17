@@ -1,0 +1,4 @@
+# Dependências de execução: nenhuma.
+# O projeto utiliza apenas a biblioteca padrão do Python (secrets, string,
+# argparse e unittest). Para executar o programa ou testes, basta Python >= 3.10.
+# O pyproject.toml declara metadados opcionais para empacotamento/instalação.
